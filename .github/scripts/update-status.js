@@ -10,7 +10,7 @@
 const PROJECT_NUMBER = 7; // e.g., .../projects/7
 const TARGET_TYPE = "Milestone"; // repo Issue Type to check (case-sensitive)
 const STATUS_FIELD_NAME = "Status"; // Project field to update
-const NEW_STATUS_VALUE = "In Progress"; // Option name in Status (case-sensitive)
+const NEW_STATUS_VALUE = "Milestones"; // Option name in Status (case-sensitive)
 // ===========================================================
 
 export default async function run({ github, context, core }) {
