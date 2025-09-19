@@ -54,3 +54,9 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/c
 
 
 ### UC26 Hinge Design
+
+| Ei Thiri Kyaw |
+| :-----------: |
+| <img src="https://github.com/ei-thirikyaw.png" width="180"> |
+
+[Relevant Milestone](https://github.com/cornellev/component_chassis/issues/20)
