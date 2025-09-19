@@ -10,9 +10,9 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/c
 
 **Responsible**:
 
-| Serkan Yurday | Ei Thiri Kyaw |
-| :-----------: | :-----------: |
-| <img src="https://github.com/beefserky12.png" width="180"> | <img src="https://github.com/ei-thirikyaw.png" width="180">
+| Serkan Yurday | Ei Thiri Kyaw | Joe Dalton |
+| :-----------: | :-----------: | :--------: |
+| <img src="https://github.com/beefserky12.png" width="180"> | <img src="https://github.com/ei-thirikyaw.png" width="180"> | <img src="https://github.com/joeda-125.png" width="180"> |
 
 
 [Relevant Milestone](https://github.com/cornellev/component_chassis/issues/20)
@@ -22,9 +22,9 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/c
 
 **Responsible**:
 
-| Lucas Libshutz | Zach Feldman |
-| :-----------: | :-----------: |
-| <img src="https://github.com/lucaslibshutz.png" width="180"> | <img src="https://github.com/zachfeldman3.png" width="180">
+| Lucas Libshutz | Zach Feldman | Joe Dalton |
+| :-----------: | :-----------: | :--------: |
+| <img src="https://github.com/lucaslibshutz.png" width="180"> | <img src="https://github.com/zachfeldman3.png" width="180"> | <img src="https://github.com/joeda-125.png" width="180"> |
 
 
 [Relevant Milestone](https://github.com/cornellev/component_chassis/issues/17)
